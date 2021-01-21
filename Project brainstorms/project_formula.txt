@@ -1,13 +1,18 @@
 
-Formula for text-as-data research j
+Formula for text-as-data research
 
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
 
+Can we detect potentially violent acts (riots,...) on social media before they take place based on keywords?
 
 What source of text data will you use?
 
 What are two possible answers to the question?
+
+1. Yes, there are certain keywords found in discussion that are likely to be catalysts for violent acts.
+
+2. No, there are no specific keywords that act as catalysts for violent acts.
 
 How will the results of the quantitative text analysis demonstrate which of those answers is correct?
 
