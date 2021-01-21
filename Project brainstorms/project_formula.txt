@@ -1,5 +1,5 @@
 
-Formula for text-as-data research 
+Formula for text-as-data research j
 
 
 What question do you want to answer? This should be something you *actually* want to know, and it should end in a question mark.
